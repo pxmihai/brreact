@@ -1,0 +1,2 @@
+- moved from app into index.js
+- changed from function app to class app that extends react component and moved the return into render.
